@@ -1,0 +1,3 @@
+C:/College/Job Application/Assessment/Challange002/cmake-build-debug/CMakeFiles/Challange002.dir
+C:/College/Job Application/Assessment/Challange002/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/College/Job Application/Assessment/Challange002/cmake-build-debug/CMakeFiles/rebuild_cache.dir

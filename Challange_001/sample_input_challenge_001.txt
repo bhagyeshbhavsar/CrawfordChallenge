@@ -1,0 +1,14 @@
+#C == Circle radius
+#S == Square side
+#E == Ellipse radius1 radius2
+#R == Rectangle length width
+#T == Triangle side1 side2 side3
+C 3
+S 4.0
+E 3 4
+R 2 5
+T 2.25 3 1
+R 4 2
+C 1.5
+E 1.25 3.10
+END
